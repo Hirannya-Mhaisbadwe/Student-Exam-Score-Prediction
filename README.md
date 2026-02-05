@@ -144,11 +144,15 @@ An R² score of 0.85 means the model explains **85% of the variability** in exam
 ---
 
 ## 📁 Project Structure
+
+<pre>
 Student-Exam-Score-Prediction/
 │
 ├── Student_Performance_Prediction.ipynb
 ├── dataset.csv
 ├── README.md
+</pre>
+
 
 ---
 
